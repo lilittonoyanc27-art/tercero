@@ -1,0 +1,6 @@
+{
+  "name": "El Neolítico - Նեոլիթ | Estudio Español - Հայերեն",
+  "description": "Material de estudio interactivo: El Neolítico en español y armenio con traducción al hacer clic, preguntas, respuestas y pronunciación. Ինտերակտիվ ուսումնական նյութ՝ Նեոլիթ (իսպաներեն և հայերեն)։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
